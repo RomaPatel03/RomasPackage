@@ -4,6 +4,7 @@ sum_numeric_cols <- function(df) {
 }
 sums <- sum_numeric_cols(cleaned)
 sums
-
+a b 
+3 3
 
 
