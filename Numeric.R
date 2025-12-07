@@ -5,3 +5,4 @@ normalize_col <- function(col) {
         }
 norm <- normalize_col(cleaned$a)
 norm
+[1] 0
